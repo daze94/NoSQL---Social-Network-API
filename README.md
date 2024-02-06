@@ -1,4 +1,4 @@
-##NoSQL: Social Network API
+## NoSQL: Social Network API
 
 ## Description
 This project is an API for a social networking web application where users can share thoughts, react to friends' thoughts, and create a friend list. Built with Express.js for routing, MongoDB as the database, and Mongoose ODM for data modeling, it is designed to handle large amounts of unstructured data efficiently, making it ideal for social network applications.
